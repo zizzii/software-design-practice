@@ -1,0 +1,21 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# Editor temporary files
+*.swp
+*.swo
+
+# VSCode settings
+.vscode/
+
+# Test coverage output
+htmlcov/
